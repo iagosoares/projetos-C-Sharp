@@ -1,0 +1,16 @@
+C:\dev\timewatch\bin\Debug\net5.0\timewatch.exe
+C:\dev\timewatch\bin\Debug\net5.0\timewatch.deps.json
+C:\dev\timewatch\bin\Debug\net5.0\timewatch.runtimeconfig.json
+C:\dev\timewatch\bin\Debug\net5.0\timewatch.runtimeconfig.dev.json
+C:\dev\timewatch\bin\Debug\net5.0\timewatch.dll
+C:\dev\timewatch\bin\Debug\net5.0\ref\timewatch.dll
+C:\dev\timewatch\bin\Debug\net5.0\timewatch.pdb
+C:\dev\timewatch\obj\Debug\net5.0\timewatch.csproj.AssemblyReference.cache
+C:\dev\timewatch\obj\Debug\net5.0\timewatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\timewatch\obj\Debug\net5.0\timewatch.AssemblyInfoInputs.cache
+C:\dev\timewatch\obj\Debug\net5.0\timewatch.AssemblyInfo.cs
+C:\dev\timewatch\obj\Debug\net5.0\timewatch.csproj.CoreCompileInputs.cache
+C:\dev\timewatch\obj\Debug\net5.0\timewatch.dll
+C:\dev\timewatch\obj\Debug\net5.0\ref\timewatch.dll
+C:\dev\timewatch\obj\Debug\net5.0\timewatch.pdb
+C:\dev\timewatch\obj\Debug\net5.0\timewatch.genruntimeconfig.cache
