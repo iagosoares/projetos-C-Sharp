@@ -1,0 +1,16 @@
+C:\dev\OrientadoObjetos\bin\Debug\net5.0\OrientadoObjetos.exe
+C:\dev\OrientadoObjetos\bin\Debug\net5.0\OrientadoObjetos.deps.json
+C:\dev\OrientadoObjetos\bin\Debug\net5.0\OrientadoObjetos.runtimeconfig.json
+C:\dev\OrientadoObjetos\bin\Debug\net5.0\OrientadoObjetos.runtimeconfig.dev.json
+C:\dev\OrientadoObjetos\bin\Debug\net5.0\OrientadoObjetos.dll
+C:\dev\OrientadoObjetos\bin\Debug\net5.0\ref\OrientadoObjetos.dll
+C:\dev\OrientadoObjetos\bin\Debug\net5.0\OrientadoObjetos.pdb
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\OrientadoObjetos.csproj.AssemblyReference.cache
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\OrientadoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\OrientadoObjetos.AssemblyInfoInputs.cache
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\OrientadoObjetos.AssemblyInfo.cs
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\OrientadoObjetos.csproj.CoreCompileInputs.cache
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\OrientadoObjetos.dll
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\ref\OrientadoObjetos.dll
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\OrientadoObjetos.pdb
+C:\dev\OrientadoObjetos\obj\Debug\net5.0\OrientadoObjetos.genruntimeconfig.cache
